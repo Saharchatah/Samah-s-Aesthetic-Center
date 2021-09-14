@@ -1,0 +1,14 @@
+.ttable {
+    border:1px solid black;
+    width: 5% !important;
+  }
+  
+  tr:hover
+{
+  background-color: #F4CCC2;
+}
+
+.tablee{
+  margin-left: auto;
+  margin-right: auto;
+}
